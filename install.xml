@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin name="qaptcha">
+	<title>QapTcha</title>
+	<summary>Plugin adds QapTcha block to pages with submit forms</summary>
+	<author>Intelliants LLC</author>
+	<contributor>Intelliants LLC</contributor>
+	<version>3.2.1</version>
+	<date>2015-01-29</date>
+	<category>captchas</category>
+	<compatibility>3.2.6</compatibility>
+
+	<phrases>
+		<phrase category="common" key="qaptcha_locked">Locked : form can't be submited</phrase>
+		<phrase category="common" key="qaptcha_unlocked">Unlocked : form can be submited</phrase>
+	</phrases>
+
+	<pages>
+		<page name="qaptcha" url="qaptcha/" service="1">QapTcha</page>
+	</pages>
+</plugin>
