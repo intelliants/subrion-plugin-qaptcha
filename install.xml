@@ -4,10 +4,10 @@
 	<summary>Plugin adds QapTcha block to pages with submit forms</summary>
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
-	<version>3.2.1</version>
-	<date>2015-01-29</date>
-	<category>captchas</category>
-	<compatibility>3.2.6</compatibility>
+	<version>4.1.0</version>
+	<date>2017-02-22</date>
+	<category>captcha</category>
+	<compatibility>4.1.0</compatibility>
 
 	<phrases>
 		<phrase category="common" key="qaptcha_locked">Locked : form can't be submited</phrase>

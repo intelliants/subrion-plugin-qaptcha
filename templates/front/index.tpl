@@ -1,4 +1,4 @@
-{ia_add_media files='css:_IA_URL_plugins/qaptcha/templates/front/css/QapTcha.jquery, js:_IA_URL_plugins/qaptcha/js/jquery/jquery-ui, js:_IA_URL_plugins/qaptcha/js/jquery/jquery.ui.touch, js:_IA_URL_plugins/qaptcha/js/jquery/QapTcha.jquery'}
+{ia_add_media files='css:_IA_URL_modules/qaptcha/templates/front/css/QapTcha.jquery, js:_IA_URL_modules/qaptcha/js/jquery/jquery-ui, js:_IA_URL_modules/qaptcha/js/jquery/jquery.ui.touch, js:_IA_URL_modules/qaptcha/js/jquery/QapTcha.jquery'}
 
 <div class="QapTcha"></div>
 
