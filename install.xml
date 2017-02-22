@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<plugin name="qaptcha">
+<module type="plugin" name="qaptcha">
 	<title>QapTcha</title>
 	<summary>Plugin adds QapTcha block to pages with submit forms</summary>
 	<author>Intelliants LLC</author>
@@ -17,4 +17,4 @@
 	<pages>
 		<page name="qaptcha" url="qaptcha/" service="1">QapTcha</page>
 	</pages>
-</plugin>
+</module>
